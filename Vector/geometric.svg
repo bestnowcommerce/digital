@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="793.70081"
+   height="1122.5197"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg4762"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="geometric.svg">
+  <defs
+     id="defs4756">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5143">
+      <g
+         id="g5149"
+         transform="translate(-9.1853047e-7,8.0539462e-6)">
+        <g
+           id="g5147">
+          <path
+             style="clip-rule:evenodd;fill:#e6e7e8;fill-rule:evenodd"
+             inkscape:connector-curvature="0"
+             class="st1"
+             d="m 878,469 -12.1,-21.3 -12.1,21.3 -24.6,4.6 17.1,17.8 -3.1,24.2 22.7,-10.3 22.7,10.3 -3.1,-24.2 17.1,-17.8 z m 147.1,-16.9 -12.1,-21.3 -12.1,21.3 -24.6,4.6 17.1,17.8 -3.1,24.2 22.7,-10.3 22.7,10.3 -3.1,-24.2 17.1,-17.8 z m 171.6,21.5 -24.6,-4.6 -12.1,-21.3 -12.1,21.3 -24.6,4.6 17.1,17.8 -3.1,24.2 22.7,-10.3 22.7,10.3 -3.1,-24.2 z"
+             id="path5145" />
+        </g>
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5151">
+      <g
+         id="g5157"
+         transform="matrix(0.81929563,0,0,0.81929563,-167.70981,-1137.547)">
+        <g
+           id="g5155">
+          <path
+             style="clip-rule:evenodd;fill:#e6e7e8;fill-rule:evenodd"
+             inkscape:connector-curvature="0"
+             class="st1"
+             d="m 334.4,679.5 c -10.9,0 -19.8,8.9 -19.8,19.8 0,10.9 8.9,19.8 19.8,19.8 10.9,0 19.8,-8.9 19.8,-19.8 0,-10.9 -8.9,-19.8 -19.8,-19.8 z m 0,565.5 c -10.9,0 -19.8,8.9 -19.8,19.8 0,10.9 8.9,19.8 19.8,19.8 10.9,0 19.8,-8.9 19.8,-19.8 0,-11 -8.9,-19.8 -19.8,-19.8 z M 1691.5,719.1 c 10.9,0 19.8,-8.9 19.8,-19.8 0,-10.9 -8.9,-19.8 -19.8,-19.8 -10.9,0 -19.8,8.9 -19.8,19.8 0,10.9 8.9,19.8 19.8,19.8 z m 0,525.9 c -10.9,0 -19.8,8.9 -19.8,19.8 0,10.9 8.9,19.8 19.8,19.8 10.9,0 19.8,-8.9 19.8,-19.8 0,-11 -8.9,-19.8 -19.8,-19.8 z"
+             id="path5153" />
+        </g>
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5159">
+      <g
+         id="g5165"
+         transform="translate(-9.1853047e-7,8.0539462e-6)">
+        <g
+           id="g5163">
+          <path
+             style="clip-rule:evenodd;fill:#e6e7e8;fill-rule:evenodd"
+             inkscape:connector-curvature="0"
+             class="st1"
+             d="m 878,1469.9 -12.1,-21.3 -12.1,21.3 -24.6,4.6 17.1,17.8 -3.1,24.2 22.7,-10.3 22.7,10.3 -3.1,-24.2 17.1,-17.8 z m 147.1,28.2 -12.1,-21.3 -12.1,21.3 -24.6,4.6 17.1,17.8 -3.1,24.2 22.7,-10.3 22.7,10.3 -3.1,-24.2 17.1,-17.8 z m 171.6,-23.6 -24.6,-4.6 -12.1,-21.3 -12.1,21.3 -24.6,4.6 17.1,17.8 -3.1,24.2 22.7,-10.3 22.7,10.3 -3.1,-24.2 z"
+             id="path5161" />
+        </g>
+      </g>
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.13489366"
+     inkscape:cx="3542.0478"
+     inkscape:cy="1650.2954"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     showborder="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4759">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <polygon
+       style="clip-rule:evenodd;fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
+       class="st0"
+       points="381,1337.7 1013.9,1698.9 1644.8,1337.7 "
+       id="polygon4766"
+       transform="matrix(0.81929563,0,0,0.81929563,-167.70981,-1137.547)"
+       clip-path="url(#clipPath5159)"
+       inkscape:export-filename="F:\BestNowShop.com\Print-High-Res\geometric\geometric white.png"
+       inkscape:export-xdpi="299.9989"
+       inkscape:export-ydpi="299.9989" />
+    <polygon
+       style="clip-rule:evenodd;fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
+       class="st0"
+       points="382.7,621.7 1646.4,621.7 1013.6,260.5 "
+       id="polygon4768"
+       transform="matrix(0.81929563,0,0,0.81929563,-167.70981,-1137.547)"
+       clip-path="url(#clipPath5143)"
+       inkscape:export-filename="F:\BestNowShop.com\Print-High-Res\geometric\geometric white.png"
+       inkscape:export-xdpi="299.9989"
+       inkscape:export-ydpi="299.9989" />
+    <rect
+       style="clip-rule:evenodd;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.81929564"
+       x="43.750397"
+       y="-627.12579"
+       class="st0"
+       width="1241.8883"
+       height="603.73895"
+       id="rect4770"
+       clip-path="url(#clipPath5151)"
+       inkscape:export-filename="F:\BestNowShop.com\Print-High-Res\geometric\geometric white.png"
+       inkscape:export-xdpi="299.9989"
+       inkscape:export-ydpi="299.9989" />
+    <g
+       id="Rectangle_1_copy"
+       transform="matrix(0.81929563,0,0,0.81929563,-167.70981,-1137.547)"
+       style="fill:#ffffff;fill-opacity:1"
+       inkscape:export-filename="F:\BestNowShop.com\Print-High-Res\geometric\geometric white.png"
+       inkscape:export-xdpi="299.9989"
+       inkscape:export-ydpi="299.9989">
+      <g
+         id="g4774"
+         style="fill:#ffffff;fill-opacity:1">
+        <path
+           style="clip-rule:evenodd;fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
+           inkscape:connector-curvature="0"
+           class="st1"
+           d="m 235.4,600.4 v 763.4 h 1555 V 600.4 Z m 1532.4,740.7 H 258.1 V 623 h 1509.8 v 718.1 z"
+           id="path4772" />
+      </g>
+    </g>
+    <g
+       id="Shape_5_copy"
+       transform="matrix(0.81929563,0,0,0.81929563,-167.70981,-1137.547)"
+       style="fill:#ffffff;fill-opacity:1"
+       inkscape:export-filename="F:\BestNowShop.com\Print-High-Res\geometric\geometric white.png"
+       inkscape:export-xdpi="299.9989"
+       inkscape:export-ydpi="299.9989">
+      <g
+         id="g4784"
+         style="fill:#ffffff;fill-opacity:1">
+        <path
+           style="clip-rule:evenodd;fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
+           inkscape:connector-curvature="0"
+           class="st1"
+           d="m 472.9,1154.5 h 1080 v -11.3 h -1080 z m 0,-344.9 v 11.3 h 1080 v -11.3 z"
+           id="path4782" />
+      </g>
+    </g>
+    <polyline
+       style="clip-rule:evenodd;fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
+       class="st1"
+       points="1012.9,249.8 402.8,600.4 448.2,600.4 1012.9,275.9 "
+       id="polyline4787"
+       transform="matrix(0.81929563,0,0,0.81929563,-167.70981,-1137.547)"
+       inkscape:export-filename="F:\BestNowShop.com\Print-High-Res\geometric\geometric white.png"
+       inkscape:export-xdpi="299.9989"
+       inkscape:export-ydpi="299.9989" />
+    <polyline
+       style="clip-rule:evenodd;fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
+       class="st1"
+       points="1012.9,275.9 1577.7,600.4 1623.1,600.4 1012.9,249.8 "
+       id="polyline4789"
+       transform="matrix(0.81929563,0,0,0.81929563,-167.70981,-1137.547)"
+       inkscape:export-filename="F:\BestNowShop.com\Print-High-Res\geometric\geometric white.png"
+       inkscape:export-xdpi="299.9989"
+       inkscape:export-ydpi="299.9989" />
+    <polygon
+       style="clip-rule:evenodd;fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
+       class="st1"
+       points="405,1363.7 1015.8,1714.3 1626.5,1363.7 1581.1,1363.7 1015.8,1688.2 450.5,1363.7 "
+       id="polygon4791"
+       transform="matrix(0.81929563,0,0,0.81929563,-167.70981,-1137.547)"
+       inkscape:export-filename="F:\BestNowShop.com\Print-High-Res\geometric\geometric white.png"
+       inkscape:export-xdpi="299.9989"
+       inkscape:export-ydpi="299.9989" />
+    <g
+       id="g4813"
+       transform="matrix(0.81929563,0,0,0.81929563,-167.70981,-1137.547)"
+       style="fill:#ffffff;fill-opacity:1"
+       inkscape:export-filename="F:\BestNowShop.com\Print-High-Res\geometric\geometric white.png"
+       inkscape:export-xdpi="299.9989"
+       inkscape:export-ydpi="299.9989">
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 560.6,989.6 v -87.4 h 31.7 v 161 l -94.9,-90.4 v 87.4 H 465.8 V 899.3 Z"
+         id="path4803" />
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 762.3,924.8 c 15.7,15.7 23.5,34.5 23.5,56.5 0,22.1 -7.8,40.9 -23.5,56.4 -15.6,15.5 -34.4,23.2 -56.4,23.2 -22.1,-0.1 -40.9,-7.8 -56.4,-23.2 -15.6,-15.6 -23.4,-34.4 -23.4,-56.4 0,-21.9 7.8,-40.8 23.4,-56.5 15.7,-15.7 34.5,-23.5 56.4,-23.5 21.9,0 40.7,7.9 56.4,23.5 z M 672,947.3 c -9.4,9.5 -14.1,20.8 -14.1,33.9 0,13.2 4.7,24.5 14.1,33.9 9.3,9.3 20.6,14 33.9,14 13.1,0 24.3,-4.7 33.8,-14 9.4,-9.3 14.2,-20.6 14.2,-33.9 0,-13.2 -4.7,-24.4 -14.2,-33.9 -9.4,-9.4 -20.6,-14.1 -33.8,-14.1 -13.4,0 -24.7,4.7 -33.9,14.1 z"
+         id="path4805" />
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 836.2,902.6 29.1,74.5 29.2,-74.5 29.1,74.5 29,-74.5 h 34.2 l -63.2,160.9 -29.5,-78.3 -28.8,78.3 -63.2,-160.9 z"
+         id="path4807" />
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 1147.7,1090.1 c -13.8,-2.7 -25.6,-14.5 -35.3,-35.3 -9.6,-20.8 -14.4,-45.3 -14.4,-73.5 0,-28.3 4.8,-52.8 14.4,-73.6 9.6,-20.8 21.4,-32.5 35.3,-35.3 l 5.5,25.7 c -7,0 -13,8.1 -17.8,24.4 -4.9,16.3 -7.3,35.9 -7.3,58.8 0,22.8 2.4,42.4 7.3,58.8 4.9,16.2 10.8,24.3 17.8,24.3 z"
+         id="path4809" />
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 1522.9,1040.1 c 4.9,-16.3 7.4,-35.9 7.4,-58.8 0,-23 -2.5,-42.6 -7.4,-58.8 -5,-16.3 -10.9,-24.4 -17.8,-24.4 l 5.5,-25.7 c 13.9,2.8 25.6,14.6 35.2,35.3 9.6,20.8 14.4,45.4 14.4,73.6 0,28.3 -4.8,52.8 -14.4,73.5 -9.6,20.7 -21.4,32.5 -35.2,35.3 l -5.5,-25.7 c 6.9,0 12.8,-8.1 17.8,-24.3 z"
+         id="path4811" />
+    </g>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.81929564"
+       inkscape:connector-curvature="0"
+       class="st2"
+       d="m 894.99855,-323.90451 c 7.2098,6.96401 13.35452,12.94487 19.99082,19.33538 -16.87749,17.04135 -31.37903,35.96708 -56.5314,41.12864 -33.34534,6.88208 -67.26417,-12.12558 -78.32467,-44.81547 -11.06049,-32.6899 4.01455,-68.82084 34.82007,-83.07658 27.52833,-12.69908 57.35069,-7.53752 78.89817,13.8461 24.82466,24.74272 49.56738,49.73124 74.47397,74.39204 16.22205,16.05819 37.68759,17.94257 54.64699,5.32542 18.3523,-13.76417 21.6294,-39.98163 7.2098,-57.9242 -14.3376,-17.86065 -41.12861,-20.40046 -58.0061,-4.83384 -8.35682,7.70137 -15.56662,16.6317 -23.59571,25.31623 -7.45559,-7.94717 -13.35452,-14.25574 -19.90889,-21.13783 15.97627,-15.56661 29.74043,-35.22971 54.64702,-39.98162 26.70908,-5.16157 49.97708,1.47473 67.50998,22.61256 18.1064,21.87519 21.0559,47.02757 9.258,72.58959 -11.4701,24.74273 -31.8706,37.6876 -59.3989,38.75268 -20.89205,0.8193 -38.01533,-7.2098 -52.51686,-21.79326 -24.57887,-24.6608 -49.15774,-49.3216 -73.81854,-73.81854 -13.43645,-13.35452 -32.03446,-16.71363 -47.84686,-8.27488 -15.32083,8.19295 -22.94028,21.21975 -21.95713,38.75268 0.98316,16.46784 9.50383,28.2657 24.41501,34.57427 15.97627,6.80016 31.05131,3.93262 43.75039,-7.86523 7.53752,-7.12788 14.58346,-15.07504 22.28484,-23.10414 z"
+       id="path4815"
+       inkscape:export-filename="F:\BestNowShop.com\Print-High-Res\geometric\geometric white.png"
+       inkscape:export-xdpi="299.9989"
+       inkscape:export-ydpi="299.9989" />
+    <g
+       id="g4851"
+       transform="matrix(0.81929563,0,0,0.81929563,-167.70981,-1137.547)"
+       style="fill:#ffffff;fill-opacity:1"
+       inkscape:export-filename="F:\BestNowShop.com\Print-High-Res\geometric\geometric white.png"
+       inkscape:export-xdpi="299.9989"
+       inkscape:export-ydpi="299.9989">
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 445.2,1259.7 c 0,-2.8 2.2,-5 5,-5 h 3.9 c 2.7,0 5,2.2 5,5 v 1.8 c 0,6.7 1.3,9.9 3.2,11.6 1.5,1.5 3.9,1.8 5.9,1.8 5.9,0 9.1,-2.5 9.1,-9.9 0,-6.6 -6.4,-11.8 -13.3,-17.1 v 0.1 c -9.2,-7.3 -18.9,-14.8 -18.9,-28.7 0,-15.8 8.3,-24.9 23.1,-24.9 15.1,0 23.1,9.7 23.1,27.4 v 2 c 0,2.8 -2.2,5 -5,5 h -3.9 c -2.8,0 -5,-2.2 -5,-5 v -2 c 0,-9.2 -2.9,-13.4 -9.1,-13.4 -5.9,0 -9.1,3.2 -9.1,10.5 0,7.1 6.9,12.6 13.7,17.9 h -0.1 c 9.2,7.1 18.6,14.3 18.6,27.9 0,15.7 -8.3,24.1 -23.1,24.1 -15.4,0 -23.1,-9 -23.1,-27.3 z"
+         id="path4817" />
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 528.3,1284 c 0,2.8 -2.4,5 -5,5 h -3.9 c -2.8,0 -5,-2.2 -5,-5 v -84.3 c 0,-2.8 2.2,-5 5,-5 h 3.9 c 2.7,0 5,2.2 5,5 z"
+         id="path4819" />
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 589.9,1289 c -1.7,0 -4.1,-1.5 -4.6,-3.1 l -19.5,-48.2 v 46.2 c 0,2.8 -2.4,5 -5,5 h -4.1 c -2.7,0 -5,-2.2 -5,-5 v -84.3 c 0,-2.8 2.4,-5 5,-5 h 3.4 c 1.8,0 4.1,1.5 4.6,3.1 l 19.5,48.2 v -46.2 c 0,-2.8 2.2,-5 5,-5 h 3.9 c 2.8,0 5,2.2 5,5 v 84.3 c 0,2.8 -2.2,5 -5,5 z"
+         id="path4821" />
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 623,1221.9 c 0,-10.6 3.1,-17.6 7.6,-21.8 4.6,-4.2 10.2,-5.5 15.5,-5.5 5.2,0 10.8,1.3 15.4,5.5 4.5,4.2 7.4,11.2 7.4,21.8 v 2 c 0,2.8 -2.2,5 -4.9,5 h -4.1 c -2.8,0 -5,-2.2 -5,-5 v -2 c 0,-9.4 -3.1,-13.4 -8.8,-13.4 -5.9,0 -9,4.1 -9,13.4 v 39.6 c 0,9.4 2.9,13.6 9,13.6 2.7,0 5.2,-1.1 6.4,-2.5 1.7,-2.2 2.4,-6 2.4,-11.1 v -2 c 0,-2.8 2.2,-5 5,-5 h 4.1 c 2.7,0 4.9,2.2 4.9,5 v 2 c 0,11.1 -2.9,17.5 -7.3,21.8 -4.6,4.5 -10.5,5.6 -15.5,5.6 -5.3,0 -11.1,-1.1 -15.7,-5.6 -4.3,-4.3 -7.4,-10.8 -7.4,-21.8 z"
+         id="path4823" />
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 727.6,1194.6 c 2.8,0 5,2.2 5,5 v 3.8 c 0,2.8 -2.2,5 -5,5 h -21.4 v 26.3 h 17.6 c 2.8,0 5,2.2 5,5 v 3.8 c 0,2.8 -2.2,5 -5,5 h -17.6 v 26.5 h 21.4 c 2.8,0 5,2.2 5,5 v 3.8 c 0,2.8 -2.2,5 -5,5 h -30.2 c -2.8,0 -5,-2.2 -5,-5 v -84.3 c 0,-2.8 2.2,-5 5,-5 h 30.2 z"
+         id="path4825" />
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 798.7,1199.5 c 0,-2.8 2.2,-5 5,-5 h 36.7 c 2.8,0 5,2.2 5,5 v 3.9 c 0,2.8 -2.2,5 -5,5 h -11.5 v 75.3 c 0,2.8 -2.2,5 -5,5 h -3.8 c -2.8,0 -5,-2.2 -5,-5 v -75.3 h -11.3 c -2.8,0 -5,-2.2 -5,-5 v -3.9 z"
+         id="path4827" />
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 893.4,1235 v -35.3 c 0,-2.8 2.2,-5 5,-5 h 3.9 c 2.8,0 5,2.2 5,5 v 84.3 c 0,2.8 -2.2,5 -5,5 h -3.9 c -2.8,0 -5,-2.2 -5,-5 v -35.1 h -15.5 v 35.1 c 0,2.8 -2.2,5 -5,5 H 869 c -2.8,0 -5,-2.2 -5,-5 v -84.3 c 0,-2.8 2.2,-5 5,-5 h 3.9 c 2.8,0 5,2.2 5,5 v 35.3 z"
+         id="path4829" />
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 968.2,1194.6 c 2.8,0 5,2.2 5,5 v 3.8 c 0,2.8 -2.2,5 -5,5 h -21.4 v 26.3 h 17.6 c 2.8,0 5,2.2 5,5 v 3.8 c 0,2.8 -2.2,5 -5,5 h -17.6 v 26.5 h 21.4 c 2.8,0 5,2.2 5,5 v 3.8 c 0,2.8 -2.2,5 -5,5 H 938 c -2.8,0 -5,-2.2 -5,-5 v -84.3 c 0,-2.8 2.2,-5 5,-5 h 30.2 z"
+         id="path4831" />
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 1045.8,1289 c -2.8,0 -5,-2.2 -5,-5 v -84.3 c 0,-2.8 2.2,-5 5,-5 h 13.9 c 16.4,0 23.7,9 23.7,27 0,13 -6,20.2 -6,20.2 3.6,4.5 6,11.6 6,20.2 0,18.1 -7.3,27 -23.7,27 h -13.9 z m 8.9,-80.5 v 26.3 h 4.9 c 6.9,0 9.7,-3.8 9.7,-13.2 0,-9.4 -2.8,-13.2 -9.7,-13.2 h -4.9 z m 0,40.2 v 26.5 h 4.9 c 6.9,0 9.7,-3.8 9.7,-13.2 0,-9.5 -2.8,-13.3 -9.7,-13.3 z"
+         id="path4833" />
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 1143.1,1194.6 c 2.8,0 5,2.2 5,5 v 3.8 c 0,2.8 -2.2,5 -5,5 h -21.4 v 26.3 h 17.6 c 2.8,0 5,2.2 5,5 v 3.8 c 0,2.8 -2.2,5 -5,5 h -17.6 v 26.5 h 21.4 c 2.8,0 5,2.2 5,5 v 3.8 c 0,2.8 -2.2,5 -5,5 h -30.2 c -2.8,0 -5,-2.2 -5,-5 v -84.3 c 0,-2.8 2.2,-5 5,-5 h 30.2 z"
+         id="path4835" />
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 1212.5,1241.7 c 2.7,0 4.9,2.2 4.9,5 v 15 c 0,17.8 -7.6,27.3 -23,27.3 -15.4,0 -23.1,-9.7 -23.1,-27.3 v -39.9 c 0,-17.8 7.7,-27.2 23.1,-27.2 15.4,0 23,9.4 23,27.2 v 2 c 0,2.8 -2.2,5 -4.9,5 h -4.1 c -2.8,0 -5,-2.2 -5,-5 v -2 c 0,-6.6 -1.4,-9.9 -3.1,-11.5 -1.7,-1.5 -3.9,-1.8 -5.9,-1.8 -2,0 -4.3,0.3 -5.9,1.8 -2,1.7 -3.2,5 -3.2,11.5 0,22.3 0,36.3 0,39.9 0,9.1 2.9,13.4 9.1,13.4 6,0 9,-4.3 9,-13.4 v -6 h -4.9 c -7.8,0 -8.3,-14 0,-14 z"
+         id="path4837" />
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 1255.1,1284 c 0,2.8 -2.4,5 -5,5 h -3.9 c -2.8,0 -5,-2.2 -5,-5 v -84.3 c 0,-2.8 2.2,-5 5,-5 h 3.9 c 2.7,0 5,2.2 5,5 z"
+         id="path4839" />
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 1316.7,1289 c -1.7,0 -4.1,-1.5 -4.6,-3.1 l -19.5,-48.2 v 46.2 c 0,2.8 -2.4,5 -5,5 h -4.1 c -2.7,0 -5,-2.2 -5,-5 v -84.3 c 0,-2.8 2.4,-5 5,-5 h 3.4 c 1.8,0 4.1,1.5 4.6,3.1 l 19.5,48.2 v -46.2 c 0,-2.8 2.2,-5 5,-5 h 3.9 c 2.8,0 5,2.2 5,5 v 84.3 c 0,2.8 -2.2,5 -5,5 z"
+         id="path4841" />
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 1388.1,1289 c -1.7,0 -4.1,-1.5 -4.6,-3.1 l -19.5,-48.2 v 46.2 c 0,2.8 -2.4,5 -5,5 h -4.1 c -2.7,0 -5,-2.2 -5,-5 v -84.3 c 0,-2.8 2.4,-5 5,-5 h 3.4 c 1.8,0 4.1,1.5 4.6,3.1 l 19.5,48.2 v -46.2 c 0,-2.8 2.2,-5 5,-5 h 3.9 c 2.8,0 5,2.2 5,5 v 84.3 c 0,2.8 -2.2,5 -5,5 z"
+         id="path4843" />
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 1434.8,1284 c 0,2.8 -2.4,5 -5,5 h -3.9 c -2.8,0 -5,-2.2 -5,-5 v -84.3 c 0,-2.8 2.2,-5 5,-5 h 3.9 c 2.7,0 5,2.2 5,5 z"
+         id="path4845" />
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 1496.4,1289 c -1.7,0 -4.1,-1.5 -4.6,-3.1 l -19.5,-48.2 v 46.2 c 0,2.8 -2.4,5 -5,5 h -4.1 c -2.7,0 -5,-2.2 -5,-5 v -84.3 c 0,-2.8 2.4,-5 5,-5 h 3.4 c 1.8,0 4.1,1.5 4.6,3.1 l 19.5,48.2 v -46.2 c 0,-2.8 2.2,-5 5,-5 h 3.9 c 2.8,0 5,2.2 5,5 v 84.3 c 0,2.8 -2.2,5 -5,5 z"
+         id="path4847" />
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 1570.9,1241.7 c 2.7,0 4.9,2.2 4.9,5 v 15 c 0,17.8 -7.6,27.3 -23,27.3 -15.4,0 -23.1,-9.7 -23.1,-27.3 v -39.9 c 0,-17.8 7.7,-27.2 23.1,-27.2 15.4,0 23,9.4 23,27.2 v 2 c 0,2.8 -2.2,5 -4.9,5 h -4.1 c -2.8,0 -5,-2.2 -5,-5 v -2 c 0,-6.6 -1.4,-9.9 -3.1,-11.5 -1.7,-1.5 -3.9,-1.8 -5.9,-1.8 -2,0 -4.3,0.3 -5.9,1.8 -2,1.7 -3.2,5 -3.2,11.5 0,22.3 0,36.3 0,39.9 0,9.1 2.9,13.4 9.1,13.4 6,0 9,-4.3 9,-13.4 v -6 h -4.9 c -7.8,0 -8.3,-14 0,-14 z"
+         id="path4849" />
+    </g>
+    <g
+       id="g4885"
+       transform="matrix(0.81929563,0,0,0.81929563,-167.70981,-1137.547)"
+       style="fill:#ffffff;fill-opacity:1"
+       inkscape:export-filename="F:\BestNowShop.com\Print-High-Res\geometric\geometric white.png"
+       inkscape:export-xdpi="299.9989"
+       inkscape:export-ydpi="299.9989">
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 489.2,743.2 v 35.3 c 0,2.8 -2.2,5 -4.9,5 h -3.9 c -2.8,0 -5,-2.2 -5,-5 v -84.3 c 0,-2.8 2.2,-5 5,-5 h 15.1 c 17.1,0 24.6,9 24.6,27 0,18.1 -7.6,27 -24.6,27 z m 0,-40.2 v 26.3 h 6.3 c 7.6,0 10.6,-4.1 10.6,-13.2 0,-9.4 -3.1,-13.2 -10.6,-13.2 h -6.3 z"
+         id="path4853" />
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 543.8,716.4 c 0,-17.6 7.7,-27.3 23,-27.3 15.4,0 23,9.5 23,27.3 V 756 c 0,11.1 -2.9,17.5 -7.3,21.8 -4.6,4.5 -10.5,5.6 -15.7,5.6 -5,0 -10.9,-1.1 -15.5,-5.6 -4.3,-4.3 -7.4,-10.8 -7.4,-21.8 v -39.6 z m 14,39.7 c 0,9.2 2.9,13.6 9,13.6 5.9,0 9,-4.1 9,-13.6 v -39.6 c 0,-9.4 -2.9,-13.4 -9,-13.4 -6.2,0 -9,4.3 -9,13.4 z"
+         id="path4855" />
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 656.6,735.5 6.3,-42.1 c 0.3,-2.4 2.7,-4.2 5,-4.2 h 4.1 c 3.1,0 5.5,2.7 5,5.7 l -13.4,84.4 c -0.4,2.2 -2.7,4.2 -5,4.2 h -3.2 c -2.2,0 -4.5,-1.8 -4.9,-4.1 l -7.4,-44.7 -7.6,44.7 c -0.4,2.2 -2.7,4.1 -4.9,4.1 h -3.1 c -2.4,0 -4.5,-2 -4.9,-4.2 l -13.7,-84.4 c -0.4,-3.1 1.7,-5.7 4.9,-5.7 h 4.1 c 2.4,0 4.6,1.8 5,4.2 l 6.4,42.4 7.3,-42.6 c 0.4,-2.2 2.7,-4.1 4.9,-4.1 h 3.1 c 2.2,0 4.5,1.8 4.9,4.1 z"
+         id="path4857" />
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 733.9,689.1 c 2.8,0 5,2.2 5,5 v 3.8 c 0,2.8 -2.2,5 -5,5 h -21.4 v 26.3 h 17.6 c 2.8,0 5,2.2 5,5 v 3.8 c 0,2.8 -2.2,5 -5,5 h -17.6 v 26.5 h 21.4 c 2.8,0 5,2.2 5,5 v 3.8 c 0,2.8 -2.2,5 -5,5 h -30.2 c -2.8,0 -5,-2.2 -5,-5 V 694 c 0,-2.8 2.2,-5 5,-5 h 30.2 z"
+         id="path4859" />
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 807.3,778.3 c 0,2.8 -2.2,5 -5,5 h -3.9 c -2.8,0 -5,-2.2 -5,-5 v -23.4 c 0,-7 -3.9,-10.9 -10.8,-10.9 h -6.3 v 34.3 c 0,2.8 -2.2,5 -4.9,5 h -3.9 c -2.8,0 -5,-2.2 -5,-5 V 694 c 0,-2.8 2.2,-5 5,-5 H 785 c 17.2,0 23.2,8.7 23.2,27.4 0,8.7 -1.5,15.7 -5.9,20 -0.4,0.4 -0.7,0.7 -1.1,1.1 4.1,4.3 6,10.1 6,17.4 v 23.4 z m -31.1,-48.4 h 6.3 c 7.8,0 11.9,-3.9 11.9,-13.4 0,-9.5 -2.1,-13.4 -9.4,-13.4 h -8.8 z"
+         id="path4861" />
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 845.4,778.5 c 0,2.8 -2.4,5 -5,5 h -3.9 c -2.8,0 -5,-2.2 -5,-5 v -84.3 c 0,-2.8 2.2,-5 5,-5 h 3.9 c 2.7,0 5,2.2 5,5 z"
+         id="path4863" />
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 906.9,783.5 c -1.7,0 -4.1,-1.5 -4.6,-3.1 l -19.5,-48.2 v 46.2 c 0,2.8 -2.4,5 -5,5 h -4.1 c -2.7,0 -5,-2.2 -5,-5 v -84.3 c 0,-2.8 2.4,-5 5,-5 h 3.4 c 1.8,0 4.1,1.5 4.6,3.1 l 19.5,48.2 v -46.2 c 0,-2.8 2.2,-5 5,-5 h 3.9 c 2.8,0 5,2.2 5,5 v 84.3 c 0,2.8 -2.2,5 -5,5 z"
+         id="path4865" />
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 981.4,736.2 c 2.7,0 4.9,2.2 4.9,5 v 15 c 0,17.8 -7.6,27.3 -23,27.3 -15.4,0 -23.1,-9.7 -23.1,-27.3 v -39.9 c 0,-17.8 7.7,-27.2 23.1,-27.2 15.4,0 23,9.4 23,27.2 v 2 c 0,2.8 -2.2,5 -4.9,5 h -4.1 c -2.8,0 -5,-2.2 -5,-5 v -2 c 0,-6.6 -1.4,-9.9 -3.1,-11.5 -1.7,-1.5 -3.9,-1.8 -5.9,-1.8 -2,0 -4.3,0.3 -5.9,1.8 -2,1.7 -3.2,5 -3.2,11.5 0,22.3 0,36.3 0,39.9 0,9.1 2.9,13.4 9.1,13.4 6,0 9,-4.3 9,-13.4 v -6 h -4.9 c -7.8,0 -8.3,-14 0,-14 z"
+         id="path4867" />
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 1089.1,689.1 c 2.8,0 5,2.2 5,5 v 3.8 c 0,2.8 -2.2,5 -5,5 h -21.4 v 26.3 h 17.6 c 2.8,0 5,2.2 5,5 v 3.8 c 0,2.8 -2.2,5 -5,5 h -17.6 v 26.5 h 21.4 c 2.8,0 5,2.2 5,5 v 3.8 c 0,2.8 -2.2,5 -5,5 h -30.2 c -2.8,0 -5,-2.2 -5,-5 V 694 c 0,-2.8 2.2,-5 5,-5 h 30.2 z"
+         id="path4869" />
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 1116.8,694 c 0,-2.8 2.2,-5 5,-5 h 36.7 c 2.8,0 5,2.2 5,5 v 3.9 c 0,2.8 -2.2,5 -5,5 H 1147 v 75.3 c 0,2.8 -2.2,5 -5,5 h -3.8 c -2.8,0 -5,-2.2 -5,-5 V 703 h -11.3 c -2.8,0 -5,-2.2 -5,-5 v -4 z"
+         id="path4871" />
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 1222.6,689.1 c 2.8,0 5,2.2 5,5 v 3.8 c 0,2.8 -2.2,5 -5,5 h -21.4 v 26.3 h 17.6 c 2.8,0 5,2.2 5,5 v 3.8 c 0,2.8 -2.2,5 -5,5 h -17.6 v 26.5 h 21.4 c 2.8,0 5,2.2 5,5 v 3.8 c 0,2.8 -2.2,5 -5,5 h -30.2 c -2.8,0 -5,-2.2 -5,-5 V 694 c 0,-2.8 2.2,-5 5,-5 h 30.2 z"
+         id="path4873" />
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 1296,778.3 c 0,2.8 -2.2,5 -5,5 h -3.9 c -2.8,0 -5,-2.2 -5,-5 v -23.4 c 0,-7 -3.9,-10.9 -10.8,-10.9 h -6.3 v 34.3 c 0,2.8 -2.2,5 -4.9,5 h -3.9 c -2.8,0 -5,-2.2 -5,-5 V 694 c 0,-2.8 2.2,-5 5,-5 h 17.6 c 17.2,0 23.2,8.7 23.2,27.4 0,8.7 -1.5,15.7 -5.9,20 -0.4,0.4 -0.7,0.7 -1.1,1.1 4.1,4.3 6,10.1 6,17.4 z m -31.1,-48.4 h 6.3 c 7.8,0 11.9,-3.9 11.9,-13.4 0,-9.5 -2.1,-13.4 -9.4,-13.4 h -8.8 z"
+         id="path4875" />
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 1358.7,783.5 c -1.7,0 -4.1,-1.5 -4.6,-3.1 l -19.5,-48.2 v 46.2 c 0,2.8 -2.4,5 -5,5 h -4.1 c -2.7,0 -5,-2.2 -5,-5 v -84.3 c 0,-2.8 2.4,-5 5,-5 h 3.4 c 1.8,0 4.1,1.5 4.6,3.1 l 19.5,48.2 v -46.2 c 0,-2.8 2.2,-5 5,-5 h 3.9 c 2.8,0 5,2.2 5,5 v 84.3 c 0,2.8 -2.2,5 -5,5 z"
+         id="path4877" />
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 1405.5,778.5 c 0,2.8 -2.4,5 -5,5 h -3.9 c -2.8,0 -5,-2.2 -5,-5 v -84.3 c 0,-2.8 2.2,-5 5,-5 h 3.9 c 2.7,0 5,2.2 5,5 z"
+         id="path4879" />
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 1428.4,694 c 0,-2.8 2.2,-5 5,-5 h 36.7 c 2.8,0 5,2.2 5,5 v 3.9 c 0,2.8 -2.2,5 -5,5 h -11.5 v 75.3 c 0,2.8 -2.2,5 -5,5 h -3.8 c -2.8,0 -5,-2.2 -5,-5 V 703 h -11.3 c -2.8,0 -5,-2.2 -5,-5 v -4 z"
+         id="path4881" />
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 1522.1,717.8 11.2,-25.8 c 0.7,-1.4 3.1,-2.9 4.6,-2.9 h 4.6 c 3.8,0 6,3.5 4.6,7 l -18.1,42 v 40.3 c 0,2.8 -2.2,5 -5,5 h -3.9 c -2.7,0 -4.9,-2.2 -4.9,-5 V 738 c -6,-14 -12.2,-27.9 -18.2,-41.9 -1.5,-3.5 0.7,-7 4.6,-7 h 4.5 c 1.7,0 4.1,1.5 4.6,2.9 z"
+         id="path4883" />
+    </g>
+    <g
+       id="g4895"
+       transform="matrix(0.81929563,0,0,0.81929563,-167.70981,-1137.547)"
+       style="fill:#ffffff;fill-opacity:1"
+       inkscape:export-filename="F:\BestNowShop.com\Print-High-Res\geometric\geometric white.png"
+       inkscape:export-xdpi="299.9989"
+       inkscape:export-ydpi="299.9989">
+      <g
+         id="g4889"
+         style="fill:#ffffff;fill-opacity:1">
+        <rect
+           style="fill:#ffffff;fill-opacity:1"
+           x="204.7"
+           y="571"
+           class="st2"
+           width="192.89999"
+           height="20.5"
+           id="rect4887" />
+      </g>
+      <g
+         id="g4893"
+         style="fill:#ffffff;fill-opacity:1">
+        <rect
+           style="fill:#ffffff;fill-opacity:1"
+           x="204.7"
+           y="571"
+           class="st2"
+           width="20.5"
+           height="192.89999"
+           id="rect4891" />
+      </g>
+    </g>
+    <g
+       id="g4905"
+       transform="matrix(0.81929563,0,0,0.81929563,-167.70981,-1137.547)"
+       style="fill:#ffffff;fill-opacity:1"
+       inkscape:export-filename="F:\BestNowShop.com\Print-High-Res\geometric\geometric white.png"
+       inkscape:export-xdpi="299.9989"
+       inkscape:export-ydpi="299.9989">
+      <g
+         id="g4899"
+         style="fill:#ffffff;fill-opacity:1">
+        <rect
+           style="fill:#ffffff;fill-opacity:1"
+           x="1626.5"
+           y="571"
+           class="st2"
+           width="192.89999"
+           height="20.5"
+           id="rect4897" />
+      </g>
+      <g
+         id="g4903"
+         style="fill:#ffffff;fill-opacity:1">
+        <rect
+           style="fill:#ffffff;fill-opacity:1"
+           x="1798.9"
+           y="571"
+           class="st2"
+           width="20.5"
+           height="192.89999"
+           id="rect4901" />
+      </g>
+    </g>
+    <g
+       id="g4915"
+       transform="matrix(0.81929563,0,0,0.81929563,-167.70981,-1137.547)"
+       style="fill:#ffffff;fill-opacity:1"
+       inkscape:export-filename="F:\BestNowShop.com\Print-High-Res\geometric\geometric white.png"
+       inkscape:export-xdpi="299.9989"
+       inkscape:export-ydpi="299.9989">
+      <g
+         id="g4909"
+         style="fill:#ffffff;fill-opacity:1">
+        <rect
+           style="fill:#ffffff;fill-opacity:1"
+           x="1626.5"
+           y="1372.8"
+           class="st2"
+           width="192.89999"
+           height="20.5"
+           id="rect4907" />
+      </g>
+      <g
+         id="g4913"
+         style="fill:#ffffff;fill-opacity:1">
+        <rect
+           style="fill:#ffffff;fill-opacity:1"
+           x="1798.9"
+           y="1200.3"
+           class="st2"
+           width="20.5"
+           height="192.89999"
+           id="rect4911" />
+      </g>
+    </g>
+    <g
+       id="g4925"
+       transform="matrix(0.81929563,0,0,0.81929563,-167.70981,-1137.547)"
+       style="fill:#ffffff;fill-opacity:1"
+       inkscape:export-filename="F:\BestNowShop.com\Print-High-Res\geometric\geometric white.png"
+       inkscape:export-xdpi="299.9989"
+       inkscape:export-ydpi="299.9989">
+      <g
+         id="g4919"
+         style="fill:#ffffff;fill-opacity:1">
+        <rect
+           style="fill:#ffffff;fill-opacity:1"
+           x="205.7"
+           y="1373.4"
+           class="st2"
+           width="192.89999"
+           height="20.5"
+           id="rect4917" />
+      </g>
+      <g
+         id="g4923"
+         style="fill:#ffffff;fill-opacity:1">
+        <rect
+           style="fill:#ffffff;fill-opacity:1"
+           x="205.7"
+           y="1201"
+           class="st2"
+           width="20.5"
+           height="192.89999"
+           id="rect4921" />
+      </g>
+    </g>
+    <g
+       id="g4935"
+       transform="matrix(0.81929563,0,0,0.81929563,-167.70981,-1137.547)"
+       style="fill:#ffffff;fill-opacity:1"
+       inkscape:export-filename="F:\BestNowShop.com\Print-High-Res\geometric\geometric white.png"
+       inkscape:export-xdpi="299.9989"
+       inkscape:export-ydpi="299.9989">
+      <g
+         id="g4929"
+         style="fill:#ffffff;fill-opacity:1">
+        <rect
+           style="fill:#ffffff;fill-opacity:1"
+           x="1118"
+           y="153"
+           transform="matrix(0.4968,-0.8679,0.8679,0.4968,314.5081,1125.9487)"
+           class="st2"
+           width="20.5"
+           height="277.5"
+           id="rect4927" />
+      </g>
+      <g
+         id="g4933"
+         style="fill:#ffffff;fill-opacity:1">
+        <rect
+           style="fill:#ffffff;fill-opacity:1"
+           x="758.79999"
+           y="281.5"
+           transform="matrix(0.8679,-0.4968,0.4968,0.8679,-26.3492,484.452)"
+           class="st2"
+           width="277.5"
+           height="20.5"
+           id="rect4931" />
+      </g>
+    </g>
+    <g
+       id="g4945"
+       transform="matrix(0.81929563,0,0,0.81929563,-167.70981,-1137.547)"
+       style="fill:#ffffff;fill-opacity:1"
+       inkscape:export-filename="F:\BestNowShop.com\Print-High-Res\geometric\geometric white.png"
+       inkscape:export-xdpi="299.9989"
+       inkscape:export-ydpi="299.9989">
+      <g
+         id="g4939"
+         style="fill:#ffffff;fill-opacity:1">
+        <rect
+           style="fill:#ffffff;fill-opacity:1"
+           x="889.5"
+           y="1534.3"
+           transform="matrix(0.4968,-0.8679,0.8679,0.4968,-999.2259,1622.7245)"
+           class="st2"
+           width="20.5"
+           height="277.5"
+           id="rect4937" />
+      </g>
+      <g
+         id="g4943"
+         style="fill:#ffffff;fill-opacity:1">
+        <rect
+           style="fill:#ffffff;fill-opacity:1"
+           x="991.59998"
+           y="1662.8"
+           transform="matrix(0.8679,-0.4968,0.4968,0.8679,-681.7992,782.6423)"
+           class="st2"
+           width="277.5"
+           height="20.5"
+           id="rect4941" />
+      </g>
+    </g>
+  </g>
+  <style
+     id="style4764"
+     type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#282829;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#E6E7E8;}
+	.st2{fill:#E6E7E8;}
+</style>
+</svg>

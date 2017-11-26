@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="793.70081"
+   height="1122.5197"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5598"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="meditating siluete.svg">
+  <defs
+     id="defs5592" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.04375"
+     inkscape:cx="3647.7311"
+     inkscape:cy="1264.3892"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showborder="false"
+     inkscape:pagecheckerboard="true"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5595">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="matrix(7.4853718,0,0,-7.4853718,1712.0269,-907.72828)"
+       id="g5502">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5504"
+         style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="M 0,0 C 1.544,14.639 14.939,56.558 14.939,56.558 17.548,45.599 36.684,9.241 36.684,9.241 Z m -101.961,-1.196 c -9.046,0 -41.401,8.532 -41.401,8.532 0,0 22.266,31.305 22.266,43.481 0,0 19.135,-40.533 19.135,-52.013 m -98.726,-158.118 c 8.925,-1.984 46.428,5.33 64.28,4.586 0,0 -0.497,-7.314 14.379,-6.075 14.877,1.24 61.985,2.109 76.118,2.109 14.132,0 113.992,2.975 124.405,2.355 10.413,-0.619 49.837,6.199 45.993,32.605 -3.843,26.405 -25.351,34.989 -62.544,33.874 -37.19,-1.117 -46.364,4.087 -53.058,14.873 -6.694,10.785 -14.752,22.535 -15.62,34.56 -0.868,12.025 2.976,18.719 2.976,18.719 0,0 57.768,-0.247 69.67,0.62 11.901,0.868 11.777,12.025 5.455,27.398 -6.322,15.372 -28.885,59.134 -34.711,71.035 -5.827,11.9 -9.026,27.44 -41.159,34.879 -26.777,6.199 -32.728,18.055 -33.472,26.733 0,0 6.446,13.266 6.446,22.067 0,0 6.571,0.123 6.571,7.81 0,7.562 5.205,17.107 -2.356,16.488 0,0 5.667,41.17 -30.701,41.17 -36.164,0 -30.294,-41.792 -30.294,-41.792 0,0 -5.331,2.852 -2.975,-7.561 2.355,-10.414 2.478,-15.373 7.066,-15.373 0.744,-5.206 3.099,-17.232 7.686,-23.43 0,0 2.357,-15.496 -8.056,-20.95 -10.415,-5.455 -35.828,-9.422 -43.019,-19.339 -7.189,-9.918 -32.603,-54.919 -40.165,-70.415 -7.563,-15.497 -17.418,-40.105 -10.538,-46.985 6.881,-6.88 60.372,-5.579 81.82,-2.851 0,0 4.215,-20.704 -2.727,-35.58 -6.943,-14.876 -12.77,-28.848 -29.753,-28.848 -16.984,0 -57.645,0.966 -85.974,-15.78 -22.439,-13.265 -17.3,-49.893 14.257,-56.902" />
+    </g>
+  </g>
+</svg>
